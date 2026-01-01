@@ -398,7 +398,8 @@
 
         /**
          * Generate unique ID for new tasks
-         * Uses timestamp and random string for uniqueness
+         * Combines current timestamp in base36 with a random string
+         * to ensure extremely high probability of uniqueness.
          * @returns {string} Unique task identifier
          */
         function generateId() {
