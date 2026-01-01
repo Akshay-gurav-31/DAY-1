@@ -338,7 +338,7 @@
         // ==========================================
         // CONSTANTS & CONFIGURATION
         // ==========================================
-        const STORAGE_KEY = 'premiumDailyTasks';
+        const TASK_STORAGE_KEY = 'premiumDailyTasks';
         let currentFilter = 'all'; // Current filter state: 'all', 'active', 'completed'
 
         // ==========================================
@@ -372,7 +372,7 @@
          */
         function loadTasks() {
             try {
-                const storedTasks = localStorage.getItem(STORAGE_KEY);
+                const storedTasks = localStorage.getItem(TASK_STORAGE_KEY);
                 if (storedTasks) {
                     tasks = JSON.parse(storedTasks);
                 }
@@ -389,7 +389,7 @@
          */
         function saveTasks() {
             try {
-                localStorage.setItem(STORAGE_KEY, JSON.stringify(tasks));
+                localStorage.setItem(TASK_STORAGE_KEY, JSON.stringify(tasks));
             } catch (error) {
                 console.error('Error saving tasks to localStorage:', error);
             }
