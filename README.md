@@ -162,7 +162,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📝 Changelog
 
-### Version 1.0.0 (2024-01-01)
+### Version 1.0.0 (2026-01-01)
 - 🎉 Initial release
 - ✨ Premium glassmorphism design
 - 🚀 Full task management functionality
@@ -196,7 +196,7 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2024 Daily Tracker
+Copyright (c) 2026 Daily Tracker
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
