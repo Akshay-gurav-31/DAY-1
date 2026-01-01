@@ -395,6 +395,7 @@
                 localStorage.setItem(TASK_STORAGE_KEY, JSON.stringify(tasks));
             } catch (error) {
                 console.error('Error saving tasks to localStorage:', error);
+                console.warn('Persistence failed: Your browser might be in private mode or storage is full.');
             }
         }
 
