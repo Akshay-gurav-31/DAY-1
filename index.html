@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A premium daily task tracker to stay organized and productive.">
     <title>Daily Task Tracker - Premium Edition</title>
 
     <!-- Tailwind CSS CDN -->
@@ -566,8 +567,8 @@
             // Create main task container
             const taskEl = document.createElement('div');
             taskEl.className = `task-item flex items-center gap-4 p-4 bg-gradient-to-r ${task.completed
-                    ? 'from-gray-50 to-gray-100'
-                    : 'from-purple-50 to-indigo-50'
+                ? 'from-gray-50 to-gray-100'
+                : 'from-purple-50 to-indigo-50'
                 } rounded-xl border-2 ${task.completed
                     ? 'border-gray-200'
                     : 'border-purple-200'
