@@ -645,9 +645,9 @@
         function updateFilterButtons(filter) {
             filterBtns.forEach(btn => {
                 if (btn.dataset.filter === filter) {
-                    btn.className = 'filter-btn px-4 py-2 rounded-lg font-semibold text-sm transition-all duration-300 bg-purple-600 text-white';
+                    btn.className = 'filter-btn px-4 py-2 rounded-lg font-semibold text-sm transition-all duration-300 bg-purple-600 text-white focus:ring-2 focus:ring-purple-400 focus:outline-none';
                 } else {
-                    btn.className = 'filter-btn px-4 py-2 rounded-lg font-semibold text-sm transition-all duration-300 bg-gray-200 text-gray-700 hover:bg-gray-300';
+                    btn.className = 'filter-btn px-4 py-2 rounded-lg font-semibold text-sm transition-all duration-300 bg-gray-200 text-gray-700 hover:bg-gray-300 focus:ring-2 focus:ring-gray-400 focus:outline-none';
                 }
             });
         }
