@@ -101,6 +101,16 @@
             -webkit-backdrop-filter: blur(10px);
         }
 
+        /* Task item hover effect */
+        .task-item {
+            transition: all 0.3s ease;
+        }
+
+        .task-item:hover {
+            transform: translateX(4px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        }
+
         /* Custom checkbox styling */
         .custom-checkbox {
             appearance: none;
@@ -134,16 +144,6 @@
         .custom-checkbox:hover {
             border-color: #667eea;
             transform: scale(1.05);
-        }
-
-        /* Task item hover effect */
-        .task-item {
-            transition: all 0.3s ease;
-        }
-
-        .task-item:hover {
-            transform: translateX(4px);
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
         }
 
         /* Progress bar animation */
