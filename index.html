@@ -371,7 +371,8 @@
 
         /**
          * Load tasks from localStorage on application initialization
-         * Parses JSON data and populates the tasks array
+         * Fetches data using TASK_STORAGE_KEY, parses JSON, and populates the tasks array.
+         * Includes error handling for corrupted data.
          */
         function loadTasks() {
             try {
