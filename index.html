@@ -67,7 +67,7 @@
         }
 
         .animate-fade-in {
-            animation: fadeIn 0.5s ease-out;
+            animation: fadeIn 0.6s ease-out;
         }
 
         /* Custom scrollbar for premium look */
@@ -194,7 +194,7 @@
 
         /* Premium shadow effects */
         .shadow-premium {
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.12);
         }
 
         .shadow-premium-hover:hover {
@@ -203,7 +203,7 @@
     </style>
 </head>
 
-<body class="min-h-screen premium-gradient p-4 sm:p-6 lg:p-8">
+<body class="min-h-screen premium-gradient p-5 sm:p-6 lg:p-8">
 
     <!-- Main Container -->
     <div class="max-w-4xl mx-auto animate-fade-in">
@@ -245,7 +245,7 @@
             <!-- Progress Bar -->
             <div class="mb-6">
                 <div class="flex items-center justify-between mb-2">
-                    <span class="text-sm font-semibold text-gray-700">Completion Rate</span>
+                    <span class="text-xs font-bold text-gray-500 uppercase tracking-wider">Completion Rate</span>
                     <span class="text-sm font-bold text-purple-600" id="progress-percentage">0%</span>
                 </div>
                 <div class="w-full h-3 bg-gray-100 rounded-full overflow-hidden">
@@ -328,7 +328,7 @@
 
         <!-- Footer -->
         <footer class="text-center mt-8 text-white/80 text-sm">
-            <p>Made with ❤️ for productivity enthusiasts</p>
+            <p>&copy; 2024 Daily. Made with ❤️ for productivity enthusiasts</p>
         </footer>
     </div>
 
@@ -464,10 +464,10 @@
 
         /**
          * Toggle task completion status
-         * @param {string} id - Task identifier
+         * @param {string} taskId - Task identifier
          */
-        function toggleTask(id) {
-            const task = tasks.find(t => t.id === id);
+        function toggleTask(taskId) {
+            const task = tasks.find(t => t.id === taskId);
             if (task) {
                 task.completed = !task.completed;
                 saveTasks();
@@ -604,6 +604,7 @@
             const deleteBtn = document.createElement('button');
             deleteBtn.className = 'flex-shrink-0 px-4 py-2 bg-red-500 text-white font-semibold rounded-lg hover:bg-red-600 transform hover:scale-110 transition-all duration-300 opacity-0 group-hover:opacity-100';
             deleteBtn.textContent = 'Delete';
+            deleteBtn.title = 'Remove this task';
             deleteBtn.dataset.id = task.id;
 
             // Add group class for hover effect on delete button
@@ -619,7 +620,8 @@
 
         /**
          * Update statistics display (progress bar, counts, percentage)
-         * Calculates and updates all progress indicators
+         * Calculates completion rate and updates the visual progress bar width
+         * and text indicators.
          */
         function updateStatistics() {
             const total = tasks.length;
@@ -653,7 +655,7 @@
         }
 
         // ==========================================
-        // EVENT LISTENERS
+        // EVENT HANDLERS & INITIALIZATION
         // ==========================================
 
         /**
