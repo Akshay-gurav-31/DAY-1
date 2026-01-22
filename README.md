@@ -242,6 +242,12 @@ If you like this project:
 
 ---
 
+## 📚 API Documentation
+
+This project does not have a dedicated API; however, it demonstrates how to manipulate tasks using LocalStorage and Vanilla JavaScript. You can explore the code in `index.html` for implementation details.
+
+---
+
 <div align="center">
 
 **Made with ❤️ for productivity lovers**
