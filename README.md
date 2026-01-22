@@ -39,12 +39,15 @@ A beautiful, modern, and feature-rich task management application built with pur
 
 ### Main Interface
 The clean and modern interface with gradient backgrounds and glassmorphism effects.
+![Main Interface](placeholder)
 
 ### Task Management
 Add, complete, and manage your daily tasks with ease.
+![Task Management](placeholder)
 
 ### Progress Tracking
 Visual progress indicators keep you motivated throughout the day.
+![Progress Tracking](placeholder)
 
 ## 🛠️ Technologies Used
 
@@ -250,6 +253,9 @@ A: Yes! You can modify the CSS file to adjust colors and animations as per your 
 
 **Q: Is there a mobile version?**  
 A: The application is responsive and works well on mobile devices.
+
+**Q: How can I contribute to this project?**  
+A: Please refer to the contributing section above for guidelines on how you can help.
 
 <div align="center">
 
