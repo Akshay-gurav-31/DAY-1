@@ -1,6 +1,6 @@
 # 📝 Daily Task Tracker - Premium Edition
 
-A beautiful, modern, and feature-rich task management application built with pure HTML, CSS (Tailwind), and JavaScript. Stay organized, stay productive, and achieve more with this premium task tracker!
+A beautiful, modern, and feature-rich task management application built with pure HTML, CSS (Tailwind), and JavaScript. Stay organized, stay productive, and achieve more with this premium task tracker! This application is designed to help users efficiently manage their daily tasks with a visually appealing interface and smooth user experience.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -256,6 +256,16 @@ A: The application is responsive and works well on mobile devices.
 
 **Q: How can I contribute to this project?**  
 A: Please refer to the contributing section above for guidelines on how you can help.
+
+## 📜 API Documentation
+
+The Daily Task Tracker provides a simple API for developers to interact with the application:
+
+### Endpoints
+- **GET /tasks**: Retrieve the list of tasks.
+- **POST /tasks**: Add a new task.
+- **DELETE /tasks/:id**: Delete a task by ID.
+- **PUT /tasks/:id**: Update a task by ID.
 
 <div align="center">
 
