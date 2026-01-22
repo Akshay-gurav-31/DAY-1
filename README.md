@@ -232,6 +232,14 @@ If you like this project:
 
 **A:** Yes! We welcome contributions. Please follow the contributing guidelines above.
 
+**Q3:** Is there a demo available?
+
+**A:** You can check out a live demo [here](#).
+
+**Q4:** How can I customize the UI?
+
+**A:** You can modify the CSS classes in the `style.css` file for custom styles.
+
 ---
 
 <div align="center">
