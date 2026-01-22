@@ -240,4 +240,21 @@ If you find this project helpful, please consider:
 
 ---
 
+## ❓ FAQ
 
+**Q: How do I reset my task list?**  
+A: You can reset your entire task list by using the "Clear All Tasks" option in the app.
+
+**Q: Can I customize the theme?**  
+A: Yes! You can modify the CSS file to adjust colors and animations as per your preference.
+
+**Q: Is there a mobile version?**  
+A: The application is responsive and works well on mobile devices.
+
+<div align="center">
+
+**Made with ❤️ for productivity enthusiasts**
+
+[⬆ Back to Top](#-daily-task-tracker---premium-edition)
+
+</div>
