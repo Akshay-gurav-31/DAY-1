@@ -1,12 +1,5 @@
 # 📝 Daily Task Tracker - Premium Edition
 
-A beautiful, modern, and feature-rich task management application built with pure HTML, CSS (Tailwind), and JavaScript. Stay organized, stay productive, and achieve more with this premium task tracker!
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
-![CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
 
 ## ✨ Features
 
