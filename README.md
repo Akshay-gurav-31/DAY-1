@@ -94,6 +94,13 @@ open index.html
 
 ---
 
+## 📷 Screenshots
+
+![Screenshot Placeholder](https://via.placeholder.com/400x300?text=Screenshot+1)
+![Screenshot Placeholder](https://via.placeholder.com/400x300?text=Screenshot+2)
+
+---
+
 ## 🎨 Customization
 
 ### 🎨 Theme Colors
@@ -212,6 +219,18 @@ If you like this project:
 * 💡 Suggest features
 * 🔀 Contribute
 * 📢 Share it
+
+---
+
+## ❓ FAQ
+
+**Q1:** How do I report a bug?
+
+**A:** Please open an issue in the repository with detailed information about the bug.
+
+**Q2:** Can I contribute to this project?
+
+**A:** Yes! We welcome contributions. Please follow the contributing guidelines above.
 
 ---
 
