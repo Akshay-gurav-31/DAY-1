@@ -1,5 +1,12 @@
 # 📝 Daily Task Tracker - Premium Edition
 
+A beautiful, modern, and feature-rich task management application built with pure HTML, CSS (Tailwind), and JavaScript. Stay organized, stay productive, and achieve more with this premium task tracker!
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
+![CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
 
 ## ✨ Features
 
@@ -204,7 +211,7 @@ copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+aUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
@@ -232,6 +239,17 @@ If you find this project helpful, please consider:
 - 📢 Sharing with others
 
 ---
+
+## ❓ FAQ
+
+**Q: How do I reset my task list?**  
+A: You can reset your entire task list by using the "Clear All Tasks" option in the app.
+
+**Q: Can I customize the theme?**  
+A: Yes! You can modify the CSS file to adjust colors and animations as per your preference.
+
+**Q: Is there a mobile version?**  
+A: The application is responsive and works well on mobile devices.
 
 <div align="center">
 
