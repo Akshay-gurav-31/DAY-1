@@ -251,6 +251,12 @@ This project does not have a dedicated API; however, it demonstrates how to mani
 
 ---
 
+## 🎥 Live Demo
+
+Experience the application in action by visiting our [Live Demo](#).
+
+---
+
 <div align="center">
 
 **Made with ❤️ for productivity lovers**
