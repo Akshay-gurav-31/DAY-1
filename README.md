@@ -71,7 +71,6 @@ open index.html
 ```
 
 ### Option 3: Live Server (Recommended)
-
 * Use **VS Code Live Server Extension**
 * Right‑click `index.html` → *Open with Live Server*
 
@@ -99,8 +98,8 @@ open index.html
 
 ## 📷 Screenshots
 
-![Screenshot Placeholder](https://via.placeholder.com/400x300?text=Screenshot+1)
-![Screenshot Placeholder](https://via.placeholder.com/400x300?text=Screenshot+2)
+![Screenshot 1](https://via.placeholder.com/400x300?text=Screenshot+1)
+![Screenshot 2](https://via.placeholder.com/400x300?text=Screenshot+2)
 
 ---
 
@@ -214,7 +213,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 ---
 
 ## 💖 Support
-
 If you like this project:
 
 * ⭐ Star the repo
@@ -242,6 +240,10 @@ If you like this project:
 **Q4:** How can I customize the UI?
 
 **A:** You can modify the CSS classes in the `style.css` file for custom styles.
+
+**Q5:** How can I utilize the task management features?
+
+**A:** After adding a task, you can manage it using checkboxes to mark as complete, delete it, or filter tasks to view only active or completed ones.
 
 ---
 
