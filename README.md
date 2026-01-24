@@ -1,21 +1,5 @@
 
 
-## 📦 Installation & Setup
-
-### Option 1: Direct Download
-
-1. Download `index.html`
-2. Open it in any modern browser
-3. Done 🎉
-
-### Option 2: Clone Repository
-
-```bash
-git clone https://github.com/Akshay-gurav-31/DAY-1.git
-cd DAY-1
-open index.html
-```
-
 ### Option 3: Live Server (Recommended)
 * Use **VS Code Live Server Extension**
 * Right‑click `index.html` → *Open with Live Server*
