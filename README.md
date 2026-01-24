@@ -1,15 +1,4 @@
 
-
-## ✨ Features
-
-### 🎨 Premium UI / UX
-
-* Glassmorphism design with blur effects
-* Purple → Indigo gradient background
-* Smooth slide & fade animations
-* Custom gradient scrollbar
-* Fully responsive layout (mobile‑first)
-
 ### 🚀 Core Functionality
 
 * ➕ Add tasks instantly
