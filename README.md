@@ -1,17 +1,5 @@
 
 
----
-
-## 🛠️ Tech Stack
-
-* **HTML5** – Semantic structure
-* **Tailwind CSS (CDN)** – Utility‑first styling
-* **Vanilla JavaScript (ES6+)** – App logic
-* **LocalStorage API** – Client‑side persistence
-* **CSS Animations** – Smooth transitions
-
----
-
 ## 📦 Installation & Setup
 
 ### Option 1: Direct Download
