@@ -1,18 +1,5 @@
 
 
-
-
-## 📖 Overview
-This application allows users to create, manage, and track their daily tasks effortlessly. With its intuitive interface and powerful features, you can enhance your productivity and streamline your workflow.
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
-![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
-
----
-
 ## ✨ Features
 
 ### 🎨 Premium UI / UX
