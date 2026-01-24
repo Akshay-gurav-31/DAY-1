@@ -1,6 +1,6 @@
 
 
-A beautiful, modern, and feature‑rich **task management web application** built using **pure HTML, Tailwind CSS, and Vanilla JavaScript**. Designed with a premium glassmorphism UI to help you stay focused, organized, and productive.
+
 
 ## 📖 Overview
 This application allows users to create, manage, and track their daily tasks effortlessly. With its intuitive interface and powerful features, you can enhance your productivity and streamline your workflow.
