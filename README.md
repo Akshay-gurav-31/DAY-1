@@ -1,22 +1,4 @@
 
-### 🚀 Core Functionality
-
-* ➕ Add tasks instantly
-* ✅ Mark tasks as completed
-* 🗑️ Delete individual tasks
-* 🔍 Filter tasks (All / Active / Completed)
-* 📊 Progress bar with live stats
-* 💾 Persistent storage using LocalStorage
-* 🧹 Clear completed tasks
-* ♻️ Reset all tasks (with confirmation)
-
-### 🎯 User Experience Enhancements
-
-* Friendly empty‑state message
-* Hover & focus effects
-* Keyboard accessible
-* Real‑time UI updates
-* Staggered task animations
 
 ---
 
