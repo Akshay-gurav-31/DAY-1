@@ -40,3 +40,10 @@ All data is stored locally using **LocalStorage**, ensuring tasks remain saved e
 - Keyboard accessible
 - Real-time UI updates
 - Staggered task animations
+
+## 📦 Installation & Setup
+
+### Option 1: Direct Download
+1. Download `index.html`
+2. Open it in any modern browser
+3. Done 🎉
