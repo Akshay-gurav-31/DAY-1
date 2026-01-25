@@ -54,3 +54,13 @@ All data is stored locally using **LocalStorage**, ensuring tasks remain saved e
 git clone https://github.com/Akshay-gurav-31/DAY-1.git
 cd DAY-1
 open index.html
+
+
+---
+
+```md
+---
+
+✨ Built with passion to improve daily productivity.  
+If you like this project, don’t forget to ⭐ the repository!
+
