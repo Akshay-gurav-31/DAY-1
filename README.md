@@ -23,3 +23,13 @@ All data is stored locally using **LocalStorage**, ensuring tasks remain saved e
 - Smooth slide & fade animations
 - Custom gradient scrollbar
 - Fully responsive (mobile-first)
+
+  ## 🚀 Core Functionality
+
+- ➕ Add tasks instantly
+- ✅ Mark tasks as completed
+- 🗑️ Delete individual tasks
+- 🔍 Filter tasks (All / Active / Completed)
+- 📊 Progress bar with live stats
+- 💾 Persistent storage using LocalStorage
+
