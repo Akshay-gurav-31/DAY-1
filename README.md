@@ -47,3 +47,10 @@ All data is stored locally using **LocalStorage**, ensuring tasks remain saved e
 1. Download `index.html`
 2. Open it in any modern browser
 3. Done 🎉
+
+### Option 2: Clone Repository
+
+```bash
+git clone https://github.com/Akshay-gurav-31/DAY-1.git
+cd DAY-1
+open index.html
