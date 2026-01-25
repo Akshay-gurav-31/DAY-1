@@ -9,3 +9,9 @@ Designed with a premium **glassmorphism UI** to help you stay focused, organized
 ![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
+
+## 📖 Overview
+
+**Daily Task Tracker – Premium Edition** allows users to easily create, manage, and track daily tasks with an elegant UI and smooth interactions.
+
+All data is stored locally using **LocalStorage**, ensuring tasks remain saved even after refreshing the browser.
