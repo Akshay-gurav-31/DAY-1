@@ -33,3 +33,10 @@ All data is stored locally using **LocalStorage**, ensuring tasks remain saved e
 - 📊 Progress bar with live stats
 - 💾 Persistent storage using LocalStorage
 
+## 🎯 User Experience Enhancements
+
+- Friendly empty-state message
+- Hover & focus effects
+- Keyboard accessible
+- Real-time UI updates
+- Staggered task animations
