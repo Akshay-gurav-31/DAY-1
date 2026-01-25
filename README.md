@@ -15,3 +15,11 @@ Designed with a premium **glassmorphism UI** to help you stay focused, organized
 **Daily Task Tracker – Premium Edition** allows users to easily create, manage, and track daily tasks with an elegant UI and smooth interactions.
 
 All data is stored locally using **LocalStorage**, ensuring tasks remain saved even after refreshing the browser.
+
+## 🎨 Premium UI / UX
+
+- Glassmorphism design with blur effects
+- Purple → Indigo gradient background
+- Smooth slide & fade animations
+- Custom gradient scrollbar
+- Fully responsive (mobile-first)
