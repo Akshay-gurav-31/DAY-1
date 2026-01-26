@@ -11,6 +11,8 @@ Designed with a premium **glassmorphism UI** to help you stay focused, organized
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen.svg)  
 ![GitHub issues](https://img.shields.io/github/issues/Akshay-gurav-31/DAY-1.svg)  
 ![Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)  
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)  
+![Last Commit](https://img.shields.io/github/last-commit/Akshay-gurav-31/DAY-1.svg)  
 
 ---
 
@@ -182,3 +184,24 @@ Special thanks to the contributors and the open-source community for their suppo
 ![Last Commit](https://img.shields.io/github/last-commit/Akshay-gurav-31/DAY-1.svg)  
 
 ---
+
+## 📖 Table of Contents
+
+- [Overview](#-overview)  
+- [Premium UI / UX](#-premium-ui--ux)  
+- [Core Functionality](#-core-functionality)  
+- [User Experience Enhancements](#-user-experience-enhancements)  
+- [Tech Stack](#-tech-stack)  
+- [Installation & Setup](#-installation--setup)  
+- [Screenshots](#-screenshots)  
+- [Usage](#-usage)  
+- [Features Highlights](#-features-highlights)  
+- [Contributing](#-contributing)  
+- [License](#-license)  
+- [FAQ](#-faq)  
+- [API Documentation](#-api-documentation)  
+- [Additional Information](#-additional-information)  
+- [Live Demo](#-live-demo)  
+- [Acknowledgments](#-acknowledgments)  
+- [Future Enhancements](#-future-enhancements)  
+- [Additional Badges](#-additional-badges)
