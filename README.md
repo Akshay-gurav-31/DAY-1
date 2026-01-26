@@ -9,7 +9,7 @@ Designed with a premium **glassmorphism UI** to help you stay focused, organized
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)  
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen.svg)  
-![GitHub issues](https://img.shields.io/github/issues/Akshay-gurav-31/DAY-1.svg)
+![GitHub issues](https://img.shields.io/github/issues/Akshay-gurav-31/DAY-1.svg)  
 
 ---
 
@@ -152,3 +152,15 @@ This project does not use an external API but utilizes the LocalStorage API for 
 ## 🌟 Additional Information
 
 For any additional questions or support regarding the Daily Task Tracker, feel free to open an issue in the repository.
+
+---
+
+## 🌐 Live Demo
+
+Check out a live demo of the Daily Task Tracker here: [Live Demo](https://your-live-demo-link.com).
+
+---
+
+## 🛡️ Acknowledgments
+
+Special thanks to the contributors and the open-source community for their support and inspiration.
