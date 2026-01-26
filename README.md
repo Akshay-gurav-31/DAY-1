@@ -10,6 +10,7 @@ Designed with a premium **glassmorphism UI** to help you stay focused, organized
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)  
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen.svg)  
 ![GitHub issues](https://img.shields.io/github/issues/Akshay-gurav-31/DAY-1.svg)  
+![Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)  
 
 ---
 
@@ -171,4 +172,13 @@ Special thanks to the contributors and the open-source community for their suppo
 
 - Integration with third-party APIs for task synchronization.  
 - User authentication for personalized experiences.  
-- Enhanced filtering and sorting options for better task management.
+- Enhanced filtering and sorting options for better task management.  
+
+---
+
+## ✨ Additional Badges
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)  
+![Last Commit](https://img.shields.io/github/last-commit/Akshay-gurav-31/DAY-1.svg)  
+
+---
