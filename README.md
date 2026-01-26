@@ -9,6 +9,7 @@ Designed with a premium **glassmorphism UI** to help you stay focused, organized
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)  
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen.svg)  
+![GitHub issues](https://img.shields.io/github/issues/Akshay-gurav-31/DAY-1.svg)
 
 ---
 
@@ -89,30 +90,30 @@ open index.html
 To start using the Daily Task Tracker, simply open the `index.html` file in your web browser. You can then add tasks, mark them as complete, or delete them as needed.
 
 ### Example Usage:
-1. Open the application in your browser.
-2. Click on the **Add Task** button.
-3. Enter your task in the input field and hit **Enter**.
+1. Open the application in your browser.  
+2. Click on the **Add Task** button.  
+3. Enter your task in the input field and hit **Enter**.  
 4. Manage your tasks using the provided controls.
 
 ---
 
 ## 🔍 Features Highlights
 
-- LocalStorage persistence ensures your tasks are saved.
-- Intuitive user interface designed for a seamless experience.
-- Responsive design adapts to various screen sizes.
-- Custom animations enhance user engagement.
-- Easily filter tasks to focus on what matters.
+- LocalStorage persistence ensures your tasks are saved.  
+- Intuitive user interface designed for a seamless experience.  
+- Responsive design adapts to various screen sizes.  
+- Custom animations enhance user engagement.  
+- Easily filter tasks to focus on what matters.  
 
 ---
 
 ## 🤝 Contributing
 
 We welcome contributions to the Daily Task Tracker! Please follow these steps:
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
+1. Fork the repository.  
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).  
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).  
+4. Push to the branch (`git push origin feature/AmazingFeature`).  
 5. Open a pull request.
 
 ### Code of Conduct  
@@ -136,6 +137,9 @@ A: Yes, the application is fully responsive and works on mobile devices!
 
 **Q: How do I reset my tasks?**  
 A: You can clear LocalStorage from your browser settings to reset all tasks.
+
+**Q: Can I customize the UI?**  
+A: Yes, you can modify the CSS styles in the `style.css` file to personalize the look and feel.
 
 ---
 
