@@ -280,3 +280,23 @@ To ensure the application is running smoothly, you can use the built-in browser 
 ## 📊 User Feedback
 
 We value your feedback! Please take a moment to fill out our [User Feedback Form](https://your-feedback-form-link.com) to help us improve the Daily Task Tracker.
+
+---
+
+## 🛠️ Known Limitations
+
+- Users with a large number of tasks may experience performance issues due to reliance on LocalStorage. Consider optimizing task management for better performance.
+
+---
+
+## 🗒️ Change Log
+
+- v1.0.0 (Initial Release): Basic functionality and UI design implemented.  
+- v1.1.0 (Upcoming): Planned enhancements and features to be added.
+
+---
+
+## 🎈 Milestones
+
+- Achieved 100+ downloads within the first month of release.  
+- Positive feedback from the user community on UI/UX design.
