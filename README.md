@@ -300,3 +300,13 @@ We value your feedback! Please take a moment to fill out our [User Feedback Form
 
 - Achieved 100+ downloads within the first month of release.  
 - Positive feedback from the user community on UI/UX design.
+
+---
+
+## 🗂️ Additional Badges
+
+![GitHub stars](https://img.shields.io/github/stars/Akshay-gurav-31/DAY-1.svg?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/Akshay-gurav-31/DAY-1.svg?style=social)  
+![GitHub contributors](https://img.shields.io/github/contributors/Akshay-gurav-31/DAY-1.svg?style=social)  
+
+---
