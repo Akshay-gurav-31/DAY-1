@@ -189,22 +189,22 @@ Special thanks to the contributors and the open-source community for their suppo
 
 - [Overview](#-overview)  
 - [Premium UI / UX](#-premium-ui--ux)  
-- [Core Functionality](#-core-functionality)  
-- [User Experience Enhancements](#-user-experience-enhancements)  
-- [Tech Stack](#-tech-stack)  
-- [Installation & Setup](#-installation--setup)  
-- [Screenshots](#-screenshots)  
-- [Usage](#-usage)  
-- [Features Highlights](#-features-highlights)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
-- [FAQ](#-faq)  
-- [API Documentation](#-api-documentation)  
-- [Additional Information](#-additional-information)  
-- [Live Demo](#-live-demo)  
-- [Acknowledgments](#-acknowledgments)  
-- [Future Enhancements](#-future-enhancements)  
-- [Additional Badges](#-additional-badges)
+- [Core Functionality](#core-functionality)  
+- [User Experience Enhancements](#user-experience-enhancements)  
+- [Tech Stack](#tech-stack)  
+- [Installation & Setup](#installation--setup)  
+- [Screenshots](#screenshots)  
+- [Usage](#usage)  
+- [Features Highlights](#features-highlights)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [FAQ](#faq)  
+- [API Documentation](#api-documentation)  
+- [Additional Information](#additional-information)  
+- [Live Demo](#live-demo)  
+- [Acknowledgments](#acknowledgments)  
+- [Future Enhancements](#future-enhancements)  
+- [Additional Badges](#additional-badges)
 
 ---
 
@@ -268,3 +268,12 @@ To ensure the application is running smoothly, you can use the built-in browser 
 - #JavaScript  
 
 ---
+
+## 📄 Additional Features
+
+### Dark Mode Toggle
+
+- Users can switch between light and dark themes for better visibility during different times of the day. This feature enhances the user experience by adapting the UI to their preferences and reducing eye strain.
+
+---
+
