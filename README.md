@@ -213,3 +213,11 @@ Special thanks to the contributors and the open-source community for their suppo
 - Occasionally, task filtering may not reflect changes immediately due to local caching. Reload the page to ensure updates are visible.  
 
 ---
+
+## 🗓️ Changelog
+
+### [1.0.0] - Initial Release  
+- Launch of Daily Task Tracker – Premium Edition with core features and premium UI.
+
+### [1.1.0] - Upcoming Features  
+- Planned enhancements for user authentication and API integration.
