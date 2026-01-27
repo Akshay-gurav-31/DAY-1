@@ -221,3 +221,11 @@ Special thanks to the contributors and the open-source community for their suppo
 
 ### [1.1.0] - Upcoming Features  
 - Planned enhancements for user authentication and API integration.
+
+---
+
+## 📚 Documentation
+
+### LocalStorage Management
+
+For developers looking to understand how to manage LocalStorage in this application, refer to [this guide](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage#using_localstorage) for detailed usage instructions and best practices.
