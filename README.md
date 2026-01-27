@@ -205,3 +205,11 @@ Special thanks to the contributors and the open-source community for their suppo
 - [Acknowledgments](#-acknowledgments)  
 - [Future Enhancements](#-future-enhancements)  
 - [Additional Badges](#-additional-badges)
+
+---
+
+## 🛠️ Known Issues
+
+- Occasionally, task filtering may not reflect changes immediately due to local caching. Reload the page to ensure updates are visible.  
+
+---
