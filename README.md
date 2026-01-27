@@ -229,3 +229,16 @@ Special thanks to the contributors and the open-source community for their suppo
 ### LocalStorage Management
 
 For developers looking to understand how to manage LocalStorage in this application, refer to [this guide](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage#using_localstorage) for detailed usage instructions and best practices.
+
+---
+
+## 🔗 Related Projects
+
+- **Task Manager Lite**: A simpler version for basic task management. [Link to repo](https://github.com/example/task-manager-lite)  
+- **Task Sync App**: An application that syncs tasks across devices. [Link to repo](https://github.com/example/task-sync-app)  
+
+---
+
+## 📣 Community Support
+
+Join our community on [Discord](https://discord.gg/example) for discussions, support, and feedback on the Daily Task Tracker.
