@@ -242,3 +242,9 @@ For developers looking to understand how to manage LocalStorage in this applicat
 ## 📣 Community Support
 
 Join our community on [Discord](https://discord.gg/example) for discussions, support, and feedback on the Daily Task Tracker.
+
+---
+
+## 🎉 Acknowledgments
+
+We appreciate all the contributions and support from our user community. Special thanks to [Tailwind CSS](https://tailwindcss.com/) for their amazing utility-first CSS framework, and to [MDN Web Docs](https://developer.mozilla.org/) for providing comprehensive documentation on web technologies.
