@@ -303,10 +303,39 @@ We value your feedback! Please take a moment to fill out our [User Feedback Form
 
 ---
 
-## 🗂️ Additional Badges
+## 🧑‍💻 Code Examples
 
-![GitHub stars](https://img.shields.io/github/stars/Akshay-gurav-31/DAY-1.svg?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/Akshay-gurav-31/DAY-1.svg?style=social)  
-![GitHub contributors](https://img.shields.io/github/contributors/Akshay-gurav-31/DAY-1.svg?style=social)  
+Here are some code examples to help you get started with customizing the application:
+
+### Adding a New Task
+```javascript
+function addTask(task) {
+    const taskList = JSON.parse(localStorage.getItem('tasks')) || [];
+    taskList.push(task);
+    localStorage.setItem('tasks', JSON.stringify(taskList));
+}
+```
+
+### Deleting a Task
+```javascript
+function deleteTask(taskId) {
+    let taskList = JSON.parse(localStorage.getItem('tasks')) || [];
+    taskList = taskList.filter(task => task.id !== taskId);
+    localStorage.setItem('tasks', JSON.stringify(taskList));
+}
+```
 
 ---
+
+## 📊 Performance Metrics
+
+To monitor the performance of the application, you can track the following metrics:
+- Load time
+- LocalStorage read/write times
+- User interaction response times
+
+---
+
+## 📈 Analytics Integration
+
+Consider integrating analytics tools to gather insights on how users are interacting with your application. This can help drive future enhancements and improve the overall experience.
