@@ -248,3 +248,23 @@ Join our community on [Discord](https://discord.gg/example) for discussions, sup
 ## 🎉 Acknowledgments
 
 We appreciate all the contributions and support from our user community. Special thanks to [Tailwind CSS](https://tailwindcss.com/) for their amazing utility-first CSS framework, and to [MDN Web Docs](https://developer.mozilla.org/) for providing comprehensive documentation on web technologies.
+
+---
+
+## 🧪 Testing
+
+To ensure the application is running smoothly, you can use the built-in browser developer tools:
+- Open the console to check for any errors.
+- Use the Network tab to monitor LocalStorage usage and API calls.
+
+---
+
+## 🏷️ Tags
+
+- #TaskManagement  
+- #WebApp  
+- #HTML  
+- #CSS  
+- #JavaScript  
+
+---
