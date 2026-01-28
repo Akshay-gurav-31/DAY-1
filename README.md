@@ -399,5 +399,3 @@ We aim to continuously improve the Daily Task Tracker by incorporating user feed
 
 ### Accessibility Improvements
 - We are committed to improving accessibility for all users. Future updates will include better keyboard navigation and screen reader support.
-
----
