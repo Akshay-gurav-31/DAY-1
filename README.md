@@ -392,3 +392,10 @@ For users experiencing slow performance, consider the following optimizations:
 ## 📅 Future Goals
 
 We aim to continuously improve the Daily Task Tracker by incorporating user feedback and enhancing the overall functionality of the application. Stay tuned for future updates!
+
+---
+
+## 🛠️ Known Enhancements
+
+### Accessibility Improvements
+- We are committed to improving accessibility for all users. Future updates will include better keyboard navigation and screen reader support.
