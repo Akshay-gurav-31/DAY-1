@@ -92,7 +92,7 @@ open index.html
 
 To start using the Daily Task Tracker, simply open the `index.html` file in your web browser. You can then add tasks, mark them as complete, or delete them as needed.
 
-### Example Usage:
+### Example Usage:  
 1. Open the application in your browser.  
 2. Click on the **Add Task** button.  
 3. Enter your task in the input field and hit **Enter**.  
@@ -399,3 +399,5 @@ We aim to continuously improve the Daily Task Tracker by incorporating user feed
 
 ### Accessibility Improvements
 - We are committed to improving accessibility for all users. Future updates will include better keyboard navigation and screen reader support.
+
+---
