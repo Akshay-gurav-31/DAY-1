@@ -112,7 +112,7 @@ To start using the Daily Task Tracker, simply open the `index.html` file in your
 
 ## 🤝 Contributing
 
-We welcome contributions to the Daily Task Tracker! Please follow these steps:
+We welcome contributions to the Daily Task Tracker! Please follow these steps:  
 1. Fork the repository.  
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`).  
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).  
@@ -399,5 +399,3 @@ We aim to continuously improve the Daily Task Tracker by incorporating user feed
 
 ### Accessibility Improvements
 - We are committed to improving accessibility for all users. Future updates will include better keyboard navigation and screen reader support.
-
----
