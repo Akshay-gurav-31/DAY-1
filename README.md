@@ -377,3 +377,18 @@ We actively seek user feedback to enhance the application. Please share your tho
 ## 🧑‍💻 Developer Contributions
 
 We encourage developers to contribute to the Daily Task Tracker. Your ideas and code can help shape the future of this project!
+
+---
+
+## 📊 Performance Optimization
+
+For users experiencing slow performance, consider the following optimizations:
+- Limit the number of tasks stored in LocalStorage.
+- Implement lazy loading for task display.
+- Regularly clear completed tasks from LocalStorage.
+
+---
+
+## 📅 Future Goals
+
+We aim to continuously improve the Daily Task Tracker by incorporating user feedback and enhancing the overall functionality of the application. Stay tuned for future updates!
