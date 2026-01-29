@@ -77,7 +77,7 @@ All data is stored locally using **LocalStorage**, ensuring tasks remain saved e
 git clone https://github.com/Akshay-gurav-31/DAY-1.git  
 cd DAY-1  
 open index.html  
-```
+```  
 
 ---
 
@@ -430,7 +430,7 @@ For further assistance, consider reviewing the [Developer Guide](https://your-de
 git clone https://github.com/Akshay-gurav-31/DAY-1.git  
 cd DAY-1  
 open index.html  
-```
+```  
 
 ---
 
