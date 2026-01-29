@@ -401,3 +401,19 @@ We aim to continuously improve the Daily Task Tracker by incorporating user feed
 - We are committed to improving accessibility for all users. Future updates will include better keyboard navigation and screen reader support.
 
 ---
+
+## 📄 Changelog
+
+### [1.0.0] - Initial Release
+- Launch of Daily Task Tracker – Premium Edition with core features and premium UI.
+
+### [1.1.0] - Upcoming Features
+- Planned enhancements for user authentication and API integration.
+
+---
+
+## 📚 Additional Documentation
+
+For further assistance, consider reviewing the [Developer Guide](https://your-developer-guide-link.com) which provides insights on customizing and extending the Daily Task Tracker.
+
+---
