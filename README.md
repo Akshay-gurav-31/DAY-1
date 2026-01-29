@@ -417,3 +417,24 @@ We aim to continuously improve the Daily Task Tracker by incorporating user feed
 For further assistance, consider reviewing the [Developer Guide](https://your-developer-guide-link.com) which provides insights on customizing and extending the Daily Task Tracker.
 
 ---
+
+## 📖 Installation & Setup
+
+### Option 1: Direct Download  
+1. Download `index.html`  
+2. Open it in any modern browser  
+3. Done 🎉  
+
+### Option 2: Clone Repository  
+```bash  
+git clone https://github.com/Akshay-gurav-31/DAY-1.git  
+cd DAY-1  
+open index.html  
+```
+
+---
+
+## 📸 Screenshots
+
+![Screenshot 1](link-to-screenshot-1)  
+![Screenshot 2](link-to-screenshot-2)
