@@ -253,8 +253,8 @@ We appreciate all the contributions and support from our user community. Special
 
 ## 🧪 Testing
 
-To ensure the application is running smoothly, you can use the built-in browser developer tools:
-- Open the console to check for any errors.
+To ensure the application is running smoothly, you can use the built-in browser developer tools:  
+- Open the console to check for any errors.  
 - Use the Network tab to monitor LocalStorage usage and API calls.
 
 ---
