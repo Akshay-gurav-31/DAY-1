@@ -228,7 +228,7 @@ Special thanks to the contributors and the open-source community for their suppo
 
 ### LocalStorage Management
 
-For developers looking to understand how to manage LocalStorage in this application, refer to [this guide](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage#using_localstorage) for detailed usage instructions and best practices.
+For developers looking to understand how to manage LocalStorage in this application, refer to [this guide](https://developer.mozilla.org/en-US/docs/Web/API/Window/localstorage#using_localstorage) for detailed usage instructions and best practices.
 
 ---
 
@@ -439,3 +439,4 @@ open index.html
 ![Screenshot 1](link-to-screenshot-1)  
 ![Screenshot 2](link-to-screenshot-2)  
 
+---
