@@ -106,7 +106,7 @@ To start using the Daily Task Tracker, simply open the `index.html` file in your
 - Intuitive user interface designed for a seamless experience.  
 - Responsive design adapts to various screen sizes.  
 - Custom animations enhance user engagement.  
-- Easily filter tasks to focus on what matters.  
+- Easily filter tasks to focus on what matters.
 
 ---
 
