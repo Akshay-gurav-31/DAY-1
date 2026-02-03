@@ -148,7 +148,7 @@ A: Yes, you can modify the CSS styles in the `style.css` file to personalize the
 
 ## 📄 API Documentation
 
-This project does not use an external API but utilizes the LocalStorage API for data management. For more details on using LocalStorage, refer to the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).  
+This project does not use an external API but utilizes the LocalStorage API for data management. For more details on using LocalStorage, refer to the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).
 
 ---
 
@@ -210,7 +210,7 @@ Special thanks to the contributors and the open-source community for their suppo
 
 ## 🛠️ Known Issues
 
-- Occasionally, task filtering may not reflect changes immediately due to local caching. Reload the page to ensure updates are visible.  
+- Occasionally, task filtering may not reflect changes immediately due to local caching. Reload the page to ensure updates are visible.
 
 ---
 
